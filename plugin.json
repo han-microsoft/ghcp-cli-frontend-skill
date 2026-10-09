@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ghcp-cli-frontend",
+  "version": "0.2.0",
+  "description": "Embed an interactive GitHub Copilot CLI terminal in React/xterm with a private Python PTY service. Guidance plus library source (npm copilot-terminal, PyPI copilot-terminal-runtime).",
+  "license": "MIT",
+  "author": {
+    "name": "Microsoft"
+  },
+  "keywords": [
+    "copilot",
+    "terminal",
+    "react",
+    "pty"
+  ]
+}
