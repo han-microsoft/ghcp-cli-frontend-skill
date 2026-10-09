@@ -7,6 +7,8 @@
   "author": {
     "name": "Microsoft"
   },
+  "homepage": "https://github.com/han-microsoft/ghcp-cli-frontend-skill",
+  "repository": "https://github.com/han-microsoft/ghcp-cli-frontend-skill",
   "keywords": [
     "copilot",
     "terminal",
